@@ -1,0 +1,112 @@
+{
+  "title": "Dynamic Transmission Model of Meningococcal Adolescent Booster Vaccination",
+  "description": "Implementation of a dynamic transmission model for modelling meningococcal transmission in Germany at the carrier level, as well as estimating the effects of different vaccination strategies. The software makes it possible to reproduce the results of the manuscript \"The impact of introducing meningococcal C/ACWY booster vaccination among adolescents in Germany: a dynamic transmission modelling study\".",
+  "resource_type": {
+    "id": "software"
+  },
+  "publication_date": "2026-01-08",
+  "creators": [
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Günther",
+        "given_name": "Felix",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0001-6582-1174"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch Institute",
+          "id": "01k5qnb77"
+        }
+      ]
+    }
+  ],
+  "contributors": [],
+  "publisher": "Zenodo",
+  "version": "1.0",
+  "dates": [
+    {
+      "date": "2026-01-08T13:49:26+01:00",
+      "type": {
+        "id": "created"
+      },
+      "description": "Date when the code was created"
+    }
+  ],
+  "languages": [
+    {
+      "id": "eng"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "relation_type": {
+        "id": "issupplementto"
+      },
+      "identifier": "https://github.com/robert-koch-institut/Meningococcal_BoosterVacc_DTM",
+      "resource_type": {
+        "id": "software"
+      }
+    }
+  ],
+  "rights": [
+    {
+      "id": "mit"
+    }
+  ],
+  "subjects": [
+    {
+      "subject": "Meningokokken Infektionen"
+    },
+    {
+      "subject": "Meningokokken Infection"
+    },
+    {
+      "subject": "Impfung"
+    },
+    {
+      "subject": "Vaccination"
+    },
+    {
+      "subject": "Modellierung"
+    },
+    {
+      "subject": "Computational Modeling"
+    },
+    {
+      "subject": "Deutschland"
+    },
+    {
+      "subject": "Germany"
+    },
+    {
+      "subject": "RKI"
+    },
+    {
+      "subject": "Open Source"
+    },
+    {
+      "subject": "Public Health Surveillance"
+    },
+    {
+      "subject": "Gesundheitsberichterstattung"
+    },
+    {
+      "subject": "Epidemiology"
+    },
+    {
+      "subject": "Epidemiologie"
+    }
+  ],
+  "custom_fields": {
+    "legacy:communities": [
+      "robertkochinstitut"
+    ]
+  }
+}

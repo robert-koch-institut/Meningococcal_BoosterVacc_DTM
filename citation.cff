@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+type: software
+title: Dynamic Transmission Model of Meningococcal Adolescent Booster Vaccination
+abstract: 'Implementation of a dynamic transmission model for modelling meningococcal
+  transmission in Germany at the carrier level, as well as estimating the effects
+  of different vaccination strategies. The software makes it possible to reproduce
+  the results of the manuscript "The impact of introducing meningococcal C/ACWY booster
+  vaccination among adolescents in Germany: a dynamic transmission modelling study".'
+date-released: '2026-01-08'
+keywords:
+  - Meningokokken Infektionen
+  - Meningokokken Infection
+  - Impfung
+  - Vaccination
+  - Modellierung
+  - Computational Modeling
+  - Deutschland
+  - Germany
+  - RKI
+  - Open Source
+  - Public Health Surveillance
+  - Gesundheitsberichterstattung
+  - Epidemiology
+  - Epidemiologie
+message: Cite me!
+url: https://github.com/robert-koch-institut/Meningococcal_BoosterVacc_DTM
+license: MIT
+doi: 10.5281/zenodo.18161773
+version: '1.0'
+authors:
+  - family-names: Günther
+    given-names: Felix
+    affiliation: Robert Koch Institute | Unit 33
+    orcid: https://orcid.org/0000-0001-6582-1174
